@@ -20,4 +20,5 @@
 <strong><h3>Contacts</h3></strong>
 <a href="https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSDXXxmqlcqlqZXhnHzlJWllhxHhwPsMdfkmHQLntrRLhbtsbSvdvsXWBFMmzHqwJGnPqPdH" target="_blank">samuel.quadros.x@gmail.com</a>
 <br>
+<br>
 <a href="https://www.instagram.com/samu.quadros" target="_blank">Instagram</a>
