@@ -2,7 +2,7 @@
 Hello! In this repository I have my first project made with HTML5 and CSS3.
 
 Project structure:
-  • Header 
+  <br>• Header <br> 
   • Menu
   • Content
   • Footer
