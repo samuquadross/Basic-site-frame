@@ -1,0 +1,31 @@
+header {
+	background: black;
+	position: relative;
+	border-radius: 50px 50px 50px 50px;
+	padding: 1rem;
+
+}
+nav {
+	background: grey;
+	position: relative;
+	border-radius: 50px 50px 50px 50px;
+	padding: 0,2rem;
+}
+
+article {
+	background: grey;
+	position: relative;
+	height: 400px;
+	border-radius: 50px 50px 50px 50px;
+
+
+}
+
+
+footer {
+	background: grey;
+	height: 100; width: 70;
+	border: 50px;
+	border-radius: 50px 50px 50px 50px;
+
+}
