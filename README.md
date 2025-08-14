@@ -7,7 +7,7 @@
   <br> • Footer<br>
 <hr>
 Features:
-  <br>• Link for WhatsApp, e-mail e Instagram<br>
+ <strong><h3><br>• Link for WhatsApp, e-mail e Instagram<br></h3></strong>
 
 Future Improvements:
   <br>• Make it accessible for mobile devices<br>
