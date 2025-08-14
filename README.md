@@ -9,7 +9,7 @@
 <strong><h3><br>Features:</h3></strong>
  <br>• Link for WhatsApp, e-mail e Instagram<br>
 
-Future Improvements:
+<strong><h3>Future Improvements:</h3></strong>
   <br>• Make it accessible for mobile devices<br>
   <br>• Add dynamic functions<br>
   <br>• Add a contact form<br>
