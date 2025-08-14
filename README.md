@@ -1,4 +1,4 @@
-Hello! In this repository I have my first project made with HTML5 and CSS3.
+<h2></strong>Hello! In this repository I have my first project made with HTML5 and CSS3.</h2></strong>
 
 <strong><h3>Project structure:</h3></strong>
   <br>• Header<br> 
