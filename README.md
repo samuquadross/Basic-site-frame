@@ -5,7 +5,7 @@
   <br>• Menu<br>
   <br> • Content<br>
   <br> • Footer<br>
-
+<hr>
 Features:
   <br>• Link for WhatsApp, e-mail e Instagram<br>
 
