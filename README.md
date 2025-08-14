@@ -1,7 +1,7 @@
 # Basic-site-frame
 Hello! In this repository I have my first project made with HTML5 and CSS3.
 
-<strong>Project structure:</strong>
+<strong><h2>Project structure:</h2></strong>
   <br>• Header<br> 
   <br>• Menu<br>
   <br> • Content<br>
