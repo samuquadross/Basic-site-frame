@@ -5,9 +5,11 @@
   <br>• Menu<br>
   <br> • Content<br>
   <br> • Footer<br>
+<br>  
 <hr>
 <strong><h3>Features:</h3></strong>
  <br>• Link for WhatsApp, e-mail e Instagram<br>
+<br>
 <hr>
 <strong><h3>Future Improvements:</h3></strong>
   <br>• Make it accessible for mobile devices<br>
