@@ -2,16 +2,16 @@
 Hello! In this repository I have my first project made with HTML5 and CSS3.
 
 Project structure:
-  <br>• Header <br> 
-  • Menu
-  • Content
-  • Footer
+  <br>• Header<br> 
+  <br>• Menu<br>
+  <br> • Content<br>
+  <br> • Footer<br>
 
 Features:
-  • Link for WhatsApp, e-mail e Instagram
+  <br>• Link for WhatsApp, e-mail e Instagram<br>
 
 Future Improvements:
-  • Make it accessible for mobile devices
-  • Add dynamic functions
-  • Add a contact form
+  <br>• Make it accessible for mobile devices<br>
+  <br>• Add dynamic functions<br>
+  <br>• Add a contact form<br>
 
