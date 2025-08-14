@@ -19,4 +19,5 @@
 <hr>
 <strong><h3>Contacts</h3></strong>
 <a href="https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSDXXxmqlcqlqZXhnHzlJWllhxHhwPsMdfkmHQLntrRLhbtsbSvdvsXWBFMmzHqwJGnPqPdH" target="_blank">samuel.quadros.x@gmail.com</a>
+<br>
 <a href="https://www.instagram.com/samu.quadros" target="_blank"> <img border="0" alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" width="20" height="20">
