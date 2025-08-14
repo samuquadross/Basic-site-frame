@@ -13,4 +13,6 @@
   <br>• Make it accessible for mobile devices<br>
   <br>• Add dynamic functions<br>
   <br>• Add a contact form<br>
+  <br>
+<hr>
 
