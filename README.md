@@ -6,7 +6,7 @@
   <br> • Content<br>
   <br> • Footer<br>
 <hr>
-<strong><h3><br>Features:</h3></strong>
+<strong><h3>Features:</h3></strong>
  <br>• Link for WhatsApp, e-mail e Instagram<br>
 
 <strong><h3>Future Improvements:</h3></strong>
